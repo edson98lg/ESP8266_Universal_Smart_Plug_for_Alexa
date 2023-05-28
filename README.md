@@ -17,17 +17,14 @@ Secondly, this project serves as a stepping stone for future development and exp
 ## Schematic
 
 (Place your schematic image here. You can upload it to GitHub and reference it like so)
-![Schematic](url_of_your_image)
 
 ## PCB
 
 (Place your PCB image here. You can upload it to GitHub and reference it like so)
-![PCB](url_of_your_image)
 
 ## Prototype
 
 (Place your working prototype images here. You can upload them to GitHub and reference them like so)
-![Prototype](url_of_your_image)
 
 ## Code
 
