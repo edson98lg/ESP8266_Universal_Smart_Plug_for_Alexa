@@ -6,7 +6,7 @@ The ESP8266_Universal_Smart_Plug_for_Alexa is a practical and expandable project
 
 The foundation of this project is a simple circuit which utilizes a triac and an ESP8266 board. By connecting a device to this smart box, users gain the ability to control the power state - on or off - through voice commands issued to Alexa.
 
-The purpose of this project is twofold. Firstly, to provide a convenient tool for everyday use, simplifying device management in the home or workplace. Whether you need to control lights, computers, TVs, or any device that requires a power outlet, this project offers an easy and hands-free solution.
+The purpose of this project is twofold. Firstly, to provide a convenient tool for everyday use, simplifying device management in the home or workplace. Whether you need to control any device that requires a power outlet, this project offers an easy and hands-free solution.
 
 Secondly, this project serves as a stepping stone for future development and expansion. The basic circuitry can potentially be adapted or enhanced with additional features, such as an IR controller, to increase the range of devices it can control. Furthermore, integrating other smart home systems or internet of things (IoT) devices could offer even greater flexibility and functionality.
 
